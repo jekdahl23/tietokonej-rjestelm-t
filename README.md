@@ -1,10 +1,4 @@
-## Code Credits
-
-* Joona
-
-* Anssi
-
-* Kalle
+testi3
 
 ## Example Summary
 
