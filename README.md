@@ -1,11 +1,3 @@
-## Code Credits
-
-* Joona
-
-* Anssi
-
-* Kalle
-
 ## Example Summary
 
 This example is intended to be a starting point for new development where
