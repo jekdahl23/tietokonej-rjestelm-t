@@ -1,3 +1,11 @@
+## Code Credits
+
+* Joona
+
+* Anssi
+
+* Kalle
+
 ## Example Summary
 
 This example is intended to be a starting point for new development where
@@ -51,11 +59,3 @@ configuration.
 * Please refer to the Memory Footprint Reduction section in the
 TI-RTOS User Guide *spruhd4.pdf* for a complete and detailed list of the
 differences between the empty minimal and empty projects.
-
-## Code Credits
-
-* Joona
-
-* Anssi
-
-*Kalle
